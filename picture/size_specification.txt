@@ -1,0 +1,12 @@
+game_start / map: 640×480 
+Pac / Clyde / Blinky / ghost: 42×42
+small_dot / big_dot: 30×30
+
+
+00up;01down;10left;11right
+
+coordinates: 
+（47，191）（77，191） +30
+（47，221）
+
+
